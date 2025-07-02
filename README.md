@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 - **More:** C/C++, Verilog, Assembly, SQL, AutoCAD
 
 ## 📫 Let's Connect
-- 🌐 [Portfolio]([https://your-portfolio-link.com](https://portfolio-manahilsaeed.vercel.app/)) 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/manahil-saeed-/))
+- 🌐 [Portfolio](https://portfolio-manahilsaeed.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manahil-saeed-/)
 
 ---
 
