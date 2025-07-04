@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Manahil (mon-awh-hill)
+## 👋 Hi there, I'm Manahil (pronounced mon-awh-hill)
 
 <!--
 **ManahilSaeed/ManahilSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
